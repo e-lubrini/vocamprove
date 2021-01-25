@@ -1,4 +1,4 @@
-# Vocamprove
+# Vocamprove (Beta)
 
 <p float="center">
   <img src="https://github.com/anya-bel/vocamprove/blob/main/img/logo_vocamprove.png" width="750" />
